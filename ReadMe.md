@@ -6,7 +6,7 @@ ShinyDockerBase create a docker image to run shiny application.
 
 Go to folder `dockershiny` (`cd dockershiny`).
 
-The, make sure to run ```docker build -t dockershiny .```  into this directory to get this image in local before create any application.
+Then, make sure to run ```docker build -t dockershiny .```  into this directory to get this image in local before create any application.
 
 You can check that the image is created with ```docker images```. You should see a line with:
 ```text
